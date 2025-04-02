@@ -9,5 +9,8 @@ These are the files used to create my static resume website hosted on Azure Clou
 
 ## Videos that helped me build the static website:
 
-[![Creating a resume website using Azure](https://img.youtube.com/vi/jJCSP6yOFmc/0.jpg)](https://www.youtube.com/watch?v=jJCSP6yOFmc)
-[![HTML CSS Resume | Beginner Project](https://img.youtube.com/vi/FHb9JobDs2o/0.jpg)](https://www.youtube.com/watch?v=FHb9JobDs2o)
+[![Creating a resume website using Azure](https://ytcards.demolab.com/?id=jJCSP6yOFmc&title=Creating+a+resume+website+using+Azure&lang=en&timestamp=1671314517&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=549 "Creating a resume website using Azure")](https://www.youtube.com/watch?v=jJCSP6yOFmc)
+
+[![HTML CSS Resume | Beginner Project](https://ytcards.demolab.com/?id=FHb9JobDs2o&title=HTML+CSS+Resume+|+Beginner+Project&lang=en&timestamp=1656332306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3856 "HTML CSS Resume | Beginner Project")](https://www.youtube.com/watch?v=FHb9JobDs2o)
+
+
