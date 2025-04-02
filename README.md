@@ -8,7 +8,6 @@ Preview:
 
 
 Videos that helped me build the static website:
-<ul>
-<li><a href="https://www.youtube.com/watch?v=jJCSP6yOFmc">Creating a resume website using Azure</a></li>
-<li><a href="https://www.youtube.com/watch?v=FHb9JobDs2o">HTML CSS Resume | Beginner Project</a></li>  
-</ul>
+
+[![Creating a resume website using Azure](https://img.youtube.com/vi/jJCSP6yOFmc/0.jpg)](https://www.youtube.com/watch?v=jJCSP6yOFmc)
+[![HTML CSS Resume | Beginner Project](https://img.youtube.com/vi/FHb9JobDs2o/0.jpg)](https://www.youtube.com/watch?v=FHb9JobDs2o)
